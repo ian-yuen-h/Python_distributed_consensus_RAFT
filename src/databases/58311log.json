@@ -1,0 +1,7 @@
+[
+    {
+        "action": "add",
+        "topic": "test_topic",
+        "term": 1
+    }
+]

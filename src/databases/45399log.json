@@ -1,0 +1,24 @@
+[
+    {
+        "action": "add",
+        "topic": "test_topic",
+        "term": 1
+    },
+    {
+        "action": "add",
+        "topic": "test_topic",
+        "message": "Test Message",
+        "term": 1
+    },
+    {
+        "action": "add",
+        "topic": "test_topic",
+        "message": "Test Message2",
+        "term": 1
+    },
+    {
+        "action": "remove",
+        "topic": "test_topic",
+        "term": 1
+    }
+]
